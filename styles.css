@@ -8,7 +8,7 @@
   color-scheme: only light;
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; background: #ecf39e; color-scheme: only light; }
 body {
   margin: 0; background: var(--bg); color: var(--text);
   font-family: "Newsreader", Georgia, "Times New Roman", serif;
